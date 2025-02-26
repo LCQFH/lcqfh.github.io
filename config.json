@@ -9,6 +9,7 @@
     "filingNum":"萌ICP备20250227号",
     "i18n":"CN",
     "UTC":8,
+    "singlePage":["about"],
     "bottomText":"未经允许禁止转载",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
     "needComment":1,
