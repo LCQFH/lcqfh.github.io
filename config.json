@@ -1,6 +1,18 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"风绘の博客",
+    "subTitle":"Welcome to LCQFH's blog.",
+    "avatarUrl":"http://q.qlogo.cn/headimg_dl?dst_uin=3986554524&spec=640&img_type=jpg",
+    "GMEEK_VERSION":"last",
+    "email":"lcqfh@foxmail.com",
+    "startSite":"02/27/2025",
+    "filingNum":"萌ICP备20250227号",
+    "i18n":"CN",
+    "UTC":8,
+    "bottomText":"未经允许禁止转载",
+    "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "needComment":1,
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
+    
+    
 }
