@@ -1,4 +1,5 @@
-`Gmeek-html<img src="https://t.alcy.cc/fj">`
+`Gmeek-html<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1wr9NYfEBN&cid=28608301762&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
+
 简幻欢是一个自 **2018 年** 运营至今的游戏开服平台，拥有 **20+ 社区 Q 群** 和 **100,000+ 用户群体**。
 
 ## 核心优势
